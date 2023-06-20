@@ -86,7 +86,7 @@ VF5XA-FNDDJ-085GZ-4NXZ9-N20E6
 UC5MR-8NE16-H81WY-R7QGV-QG2D8
 ZG1WH-ATY96-H80QP-X7PEX-Y30V4
 AA3E0-0VDE1-0893Z-KGZ59-QGAVF
-VMware Workstation 13.x.x	The version does not exists.
+VMware Workstation 13.x.x	The version does not exists. (this is meant to say its an MacOS Only Version)
 VMware Workstation 14.x.x	
 AG352-4YED3-0852Q-LPXXT-MGKG4
 FC1R0-2EX4M-H854Y-2NWGE-Q2KXA
